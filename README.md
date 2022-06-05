@@ -17,7 +17,7 @@ make all - compile
 make re - recompile
 
 make fclean \ clean - clean
-***
+
 ## Run
 
 Use for example "./pipex "ls -la" file1 cat file223213" to start the script.
